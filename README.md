@@ -44,7 +44,6 @@ Dataset: `customer_data.csv`
 📍 **Budget-Conscious Customers** → Discounts & affordability strategies  
 
 ## 📎 Outputs
-- 📂 `customer_data_with_clusters.csv` (Dataset with Cluster Labels)
 - 📈 **Elbow Method Plot**
 - 🎨 **2D Scatter Plot of Clusters**
 - 🖼 **Pair Plots & Centroid Visualization**
